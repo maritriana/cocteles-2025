@@ -1,0 +1,34 @@
+2# Proyecto Cócteles 2025 🍸
+
+Este proyecto fue desarrollado como parte del Desafío 2 de Desarrollo Web en la Universidad de Valparaíso.
+
+## 🧠 Descripción
+
+Aplicación web moderna construida con React y TailwindCSS que consume datos desde la API de [TheCocktailDB](https://www.thecocktaildb.com/api.php). Permite visualizar, buscar y explorar recetas de cócteles.
+
+## 🚀 Tecnologías utilizadas
+
+- React
+- Vite
+- Tailwind CSS
+- React Router DOM
+- TheCocktailDB API
+
+## 🧩 Funcionalidades
+
+- Página de inicio con introducción.
+- Listado de cócteles.
+- Detalle individual con ingredientes e instrucciones.
+- Búsqueda de cócteles por nombre.
+- Página con información de la API.
+- Página del equipo de desarrollo.
+
+## 👩‍💻 Equipo
+
+- **María Triana** – Desarrollo del código y diseño.
+- **Kymberly Aguilera** – Diseño en Figma y Trello.
+
+## 🌐 Deployment
+
+Disponible en: 👉 https://proyect-coctel.vercel.app/
+
